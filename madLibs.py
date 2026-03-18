@@ -5,7 +5,7 @@
 from pathlib import Path
 
 # file path
-file_path = Path('C:/Users/pscai/Desktop/Teste Python/madLibs.txt')
+file_path = Path('C:/Users/.../Desktop/Teste Python/madLibs.txt')
 
 print("Lets play a game!\nI'll give u a phrase and you complete it")
 
